@@ -1,0 +1,5 @@
+destinations:
+ - name: Google
+   destination: 8.8.8.8
+ - name: Cloudflaire
+   destination: 1.1.1.1
