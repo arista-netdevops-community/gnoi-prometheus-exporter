@@ -92,7 +92,7 @@ Cloudflaire      source:"1.1.1.1"  time:25000  bytes:64  sequence:1  ttl:64
 
 Once this is finished should see a result within Prometheus similar to the following.
 
-<img src="img/gnoiping.png" width="300">
+<img src="img/gnoiping.png">
 
 
 ## Limitations
